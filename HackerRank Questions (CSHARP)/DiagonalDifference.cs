@@ -32,15 +32,17 @@ namespace HackerRank_Questions__CSHARP_
 
     class Solution
     {
+		/*
         public static void Main(string[] args)
         {
 			List<int> a = new List<int>{ 1,2,3};
 			List<int> b = new List<int>{ 4,5,6};
-			List<int> c = new List<int>{ 9,8,10};
+			List<int> c = new List<int>{ 9,8,9};
 
 			List<List<int>> test = new List<List<int>> { a,b,c};
 
 			Console.WriteLine(Result.diagonalDifference(test));
 		}
+		*/
     }
 }
